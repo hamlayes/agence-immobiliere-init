@@ -1,0 +1,182 @@
+[
+	{
+		"id" : 1,
+		"type_piece_id" : 1,
+		"bien_immobilier_id" : 1,
+		"surface" : 8.00
+	},
+	{
+		"id" : 2,
+		"type_piece_id" : 2,
+		"bien_immobilier_id" : 1,
+		"surface" : 33.00
+	},
+	{
+		"id" : 3,
+		"type_piece_id" : 3,
+		"bien_immobilier_id" : 1,
+		"surface" : 12.00
+	},
+	{
+		"id" : 4,
+		"type_piece_id" : 4,
+		"bien_immobilier_id" : 1,
+		"surface" : 2.00
+	},
+	{
+		"id" : 5,
+		"type_piece_id" : 4,
+		"bien_immobilier_id" : 1,
+		"surface" : 2.50
+	},
+	{
+		"id" : 6,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 1,
+		"surface" : 11.50
+	},
+	{
+		"id" : 7,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 1,
+		"surface" : 15.00
+	},
+	{
+		"id" : 8,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 1,
+		"surface" : 9.00
+	},
+	{
+		"id" : 9,
+		"type_piece_id" : 6,
+		"bien_immobilier_id" : 1,
+		"surface" : 10.00
+	},
+	{
+		"id" : 10,
+		"type_piece_id" : 7,
+		"bien_immobilier_id" : 1,
+		"surface" : 25.00
+	},
+	{
+		"id" : 11,
+		"type_piece_id" : 1,
+		"bien_immobilier_id" : 2,
+		"surface" : 6.00
+	},
+	{
+		"id" : 13,
+		"type_piece_id" : 1,
+		"bien_immobilier_id" : 2,
+		"surface" : 12.00
+	},
+	{
+		"id" : 14,
+		"type_piece_id" : 2,
+		"bien_immobilier_id" : 2,
+		"surface" : 67.00
+	},
+	{
+		"id" : 15,
+		"type_piece_id" : 3,
+		"bien_immobilier_id" : 2,
+		"surface" : 26.00
+	},
+	{
+		"id" : 16,
+		"type_piece_id" : 4,
+		"bien_immobilier_id" : 2,
+		"surface" : 3.00
+	},
+	{
+		"id" : 17,
+		"type_piece_id" : 4,
+		"bien_immobilier_id" : 2,
+		"surface" : 2.00
+	},
+	{
+		"id" : 18,
+		"type_piece_id" : 4,
+		"bien_immobilier_id" : 2,
+		"surface" : 4.50
+	},
+	{
+		"id" : 19,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 2,
+		"surface" : 34.00
+	},
+	{
+		"id" : 20,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 2,
+		"surface" : 23.00
+	},
+	{
+		"id" : 21,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 2,
+		"surface" : 15.00
+	},
+	{
+		"id" : 22,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 2,
+		"surface" : 12.00
+	},
+	{
+		"id" : 23,
+		"type_piece_id" : 6,
+		"bien_immobilier_id" : 2,
+		"surface" : 28.00
+	},
+	{
+		"id" : 24,
+		"type_piece_id" : 7,
+		"bien_immobilier_id" : 2,
+		"surface" : 76.00
+	},
+	{
+		"id" : 25,
+		"type_piece_id" : 1,
+		"bien_immobilier_id" : 3,
+		"surface" : 5.00
+	},
+	{
+		"id" : 26,
+		"type_piece_id" : 2,
+		"bien_immobilier_id" : 3,
+		"surface" : 21.00
+	},
+	{
+		"id" : 27,
+		"type_piece_id" : 3,
+		"bien_immobilier_id" : 3,
+		"surface" : 12.00
+	},
+	{
+		"id" : 28,
+		"type_piece_id" : 4,
+		"bien_immobilier_id" : 3,
+		"surface" : 2.00
+	},
+	{
+		"id" : 29,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 3,
+		"surface" : 10.00
+	},
+	{
+		"id" : 30,
+		"type_piece_id" : 5,
+		"bien_immobilier_id" : 3,
+		"surface" : 9.00
+	},
+	{
+		"id" : 31,
+		"type_piece_id" : 7,
+		"bien_immobilier_id" : 3,
+		"surface" : 20.00
+	}
+]

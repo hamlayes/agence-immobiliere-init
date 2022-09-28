@@ -1,0 +1,26 @@
+[
+	{
+		"nom" : "Villechalane Louis",
+		"email" : "lvillachane@monimmo74.fr",
+		"tel" : "0674747474",
+		"carteAgentImmo" : true
+	},
+	{
+		"nom" : "Andre David",
+		"email" : "dandre@monimmo74.fr",
+		"tel" : "0674747475",
+		"carteAgentImmo" : false
+	},
+	{
+		"nom" : "Bedos Christian",
+		"email" : "cbedos@monimmo74.fr",
+		"tel" : "0674747476",
+		"carteAgentImmo" : true
+	},
+	{
+		"nom" : "Tusseau Louis",
+		"email" : "ltusseau@monimmo74.fr",
+		"tel" : "0674747477",
+		"carteAgentImmo" : true
+	}
+]

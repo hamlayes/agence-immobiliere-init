@@ -1,0 +1,23 @@
+[
+	{
+		"id" : 1,
+		"user_id" : 4,
+		"rue" : "1 rue Camille Claudel",
+		"ville" : "ANNECY",
+		"code_postal" : "74000"
+	},
+	{
+		"id" : 2,
+		"user_id" : 2,
+		"rue" : "23 avenue Michael Jordan",
+		"ville" : "POISY",
+		"code_postal" : "74330"
+	},
+	{
+		"id" : 3,
+		"user_id" : 1,
+		"rue" : "23 boulevard Lebron James",
+		"ville" : "EPAGNY-METZ-TESSY",
+		"code_postal" : "74330"
+	}
+]
