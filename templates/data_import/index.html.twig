@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello DataImportController!{% endblock %}
+
+{% block body %}
+    <ul>
+        {% for username, password in created_users %}
+            <li>Utilisateur: {{ username }} créé avec le mot de passe {{ password }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

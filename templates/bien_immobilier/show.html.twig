@@ -1,0 +1,39 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}BienImmobilier{% endblock %}
+
+{% block body %}
+    <h1>BienImmobilier</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ bien_immobilier.id }}</td>
+            </tr>
+            <tr>
+                <th>Rue</th>
+                <td>{{ bien_immobilier.rue }}</td>
+            </tr>
+            <tr>
+                <th>Ville</th>
+                <td>{{ bien_immobilier.ville }}</td>
+            </tr>
+            <tr>
+                <th>CodePostal</th>
+                <td>{{ bien_immobilier.codePostal }}</td>
+            </tr>
+            <tr>
+                <th>Surface</th>
+                <td>{{ bien_immobilier.surface }}</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_bien_immobilier_index') }}">back to list</a>
+
+    <a href="{{ path('app_bien_immobilier_edit', {'id': bien_immobilier.id}) }}">edit</a>
+
+    {{ include('bien_immobilier/_delete_form.html.twig') }}
+{% endblock %}
